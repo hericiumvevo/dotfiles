@@ -11,7 +11,7 @@ This is nowhere near complete, so feel free to upload your fav wallpapers/config
 
 Credits.
 ```
-Unsplash: @gliwik @aquadrata
+Unsplash: @gliwik @aquadrata @felix007 @viniciusamano 
 Instagram: @onebeneone 
 Twitter: @thecomputerclan
 ```
