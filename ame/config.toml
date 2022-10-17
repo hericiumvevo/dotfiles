@@ -1,0 +1,11 @@
+[base]
+pacdiff_warn = true
+highlight_optdepends = true
+powerpill = false
+
+[extra]
+review_user_shell = false
+uwu = false 
+
+[bin]
+sudo = 'pkexec'
